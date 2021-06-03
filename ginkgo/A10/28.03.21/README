@@ -1,0 +1,14 @@
+For Redmi Note 8/8T (ginkgo/willow)
+(MIUI, AOSP) (10 android)
+
+#===[This kernel contains]===#
+•Fixation TTL
+•Included all possible functions for NetHunter
+•Kernel headers
+•Zram & Zswap
+•Mode EDL
+•AutoInsmodModules
+•Support rtl8188eus rtl8188fu rtl8192eu rtl8812au
+#===[More info in ]===#
+https://4pda.ru/forum/index.php?showtopic=976545&view=findpost&p=99631511
+https://t.me/akamekernelchannel
